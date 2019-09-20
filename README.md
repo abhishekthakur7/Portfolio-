@@ -1,15 +1,6 @@
 <h1 align="center">
-  🔥 Portfolio 🔥
+  😃 Portfolio 😃
 </h1>
-
-
-
-<h2 align="center">
-  <img src="https://github.com/abhishekthakur7/portfolio/blob/master/examples/example.gif" alt="Portfolio" width="600px" />
-  <br>
-</h2>
-
-To view live, **[click here]()**
 
 ---
 
@@ -54,16 +45,11 @@ $ npm start
 If your run into issues installing the dependencies, use this command:
 
 ```bash
-$ sudo npm install --unsafe-perm=true --allow-root
+$ npm install --unsafe-perm=true --allow-root
 
 # Run the app
 $ npm start
 ```
 
 Once your server has started, go to this url `http://localhost:8080/` and you will see the Website running on a Development Server:
-
-<h2 align="center">
-  <img src="https://github.com/abhishekthakur7/profolio/blob/master/examples/example.png" alt="Portfolio" width="100%">
-</h2>
-
 ---
