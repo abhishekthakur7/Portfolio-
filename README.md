@@ -39,6 +39,10 @@ $ npm install
 
 # Run the app
 $ npm start
+
+#To deploy app on gh-pages
+$ npm run-script build
+$ npm run-script deploy
 ```
 
 **NOTE**:
